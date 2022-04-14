@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/Lucas31102003">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=canudrinkme&https://github-readme-stats.vercel.app/api?username=canudrinkme&count_private=true&https://github-readme-stats.vercel.app/api?username=Lucas31102003&show_icons=true&https://github-readme-stats.vercel.app/api?username=canudrinkme&show_icons=true&theme=tokyonight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canudrinkme&layout-compact&theme=tokyonight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Lucas31102002&https://github-readme-stats.vercel.app/api?username=Lucas31102003&count_private=true&https://github-readme-stats.vercel.app/api?username=Lucas31102003&show_icons=true&https://github-readme-stats.vercel.app/api?username=Lucas31102003&show_icons=true&theme=tokyonight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas31102003&layout-compact&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -17,9 +17,9 @@
   ##
   
   <div>
-    <a href="mailto:carolina.martini0205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-    <a href="https://www.linkedin.com/in/carolina-martini-4a93a81b2/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-    <a href="https://www.instagram.com/canudrinkme/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+    <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+    <a href="" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+    <a href="/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   </div>
     
  ![Snake animation](https://github.com/canudrinkme/canudrinkme/blob/output/github-contribution-grid-snake.svg) 
