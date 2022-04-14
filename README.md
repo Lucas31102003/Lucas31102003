@@ -4,7 +4,7 @@
 - 📜 Estudando front-end (HTML, CSS & JavaScript)
 
 <div>
-  <a href="https://github.com/canudrinkme">
+  <a href="https://github.com/Lucas31102003">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=canudrinkme&https://github-readme-stats.vercel.app/api?username=canudrinkme&count_private=true&https://github-readme-stats.vercel.app/api?username=canudrinkme&show_icons=true&https://github-readme-stats.vercel.app/api?username=canudrinkme&show_icons=true&theme=tokyonight"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canudrinkme&layout-compact&theme=tokyonight"/>
 </div>
